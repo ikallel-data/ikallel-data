@@ -1,6 +1,6 @@
 ### Fala meus nobres!
 
-Comecei minha jornada em técnologia em 2024, cursando atualmente **Ciência de Dados e IA** na `UNISO` e aqui estará todos os projetos e estudos que eu desenvolver 😁.  
+Comecei minha jornada em técnologia em 2024, cursando atualmente **Ciência de Dados e IA** na `UNISO` e aqui estará todos os meus projetos e estudos 😁.  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikallel-data&show_icons=true&theme=graywhite)
 
